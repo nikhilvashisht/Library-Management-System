@@ -13,7 +13,7 @@
    ```
 2. Install the requirements
    ```
-   pip install requirements.txt
+   pip install -r requirements.txt
    ```
 3. Run main.py
    ```
